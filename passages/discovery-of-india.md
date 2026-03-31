@@ -19,13 +19,13 @@ reflection_prompts:
 student_intro: "This passage is about rediscovering India — not just as a nation, but as a personal and cultural inheritance. Nehru writes from prison, looking inward as much as outward."
 
 vocabulary:
-  - word: "contradictions"
+  - term: "contradictions"
     meaning: "things that are opposite or in conflict with each other"
     example: "A place can be both ancient and modern — a contradiction, yet true."
-  - word: "instinctively"
+  - term: "instinctively"
     meaning: "naturally, without needing to think about it"
     example: "She instinctively reached out to help."
-  - word: "relics"
+  - term: "relics"
     meaning: "objects or practices surviving from an earlier time"
     example: "The old fort was a relic of the Mughal era."
 
