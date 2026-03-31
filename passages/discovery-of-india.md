@@ -1,41 +1,43 @@
 ---
-title: "The Discovery of India (Excerpt)"
+title: "The Discovery of India"
+titleEn: "The Discovery of India"
 author: "Jawaharlal Nehru"
-language: "en"
-difficulty: "professional"
-source: "Project Gutenberg India"
-tags: ["history", "identity", "philosophy"]
+language: en
+difficulty: professional
+tags:
+  - history
+  - philosophy
+  - identity
+reading_time: "4 min"
+excerpt: "India was in my blood and there was much in her that instinctively thrilled me."
+
 reflection_prompts:
-  - "What does Nehru mean by discovery?"
-  - "How does this passage relate to identity?"
-student_intro: "This passage explains that discovering India is not just about land or history. It is about understanding India’s many identities, values, and traditions from within."
+  - "What kind of discovery is Nehru describing here: political, cultural, or personal? Where do these three blur into one?"
+  - "Nehru approaches India 'almost as an alien critic.' Can you think of something familiar that you've had to rediscover with fresh eyes?"
+  - "He says India is 'a bundle of contradictions held together by strong but invisible threads.' What invisible threads hold together a society you know well?"
+
+student_intro: "This passage is about rediscovering India — not just as a nation, but as a personal and cultural inheritance. Nehru writes from prison, looking inward as much as outward."
+
 vocabulary:
-  - term: "paradoxes"
-    meaning: "situations where opposite things seem true at the same time"
-    example: "India is described as a place where spiritual and material life exist together."
-  - term: "aspirations"
-    meaning: "strong hopes or ambitions for the future"
-    example: "Modern aspirations refer to the desire for progress and change."
-  - term: "consciousness"
-    meaning: "awareness of one’s thoughts, identity, and existence"
-    example: "Nehru suggests India must examine its own consciousness."
-  - term: "monolith"
-    meaning: "something seen as single, uniform, and unchanging"
-    example: "India is not a monolith because it contains many cultures and beliefs."
-  - term: "tapestry"
-    meaning: "a rich combination of many connected parts"
-    example: "Nehru uses tapestry as a metaphor for India’s diversity."
+  - word: "contradictions"
+    meaning: "things that are opposite or in conflict with each other"
+    example: "A place can be both ancient and modern — a contradiction, yet true."
+  - word: "instinctively"
+    meaning: "naturally, without needing to think about it"
+    example: "She instinctively reached out to help."
+  - word: "relics"
+    meaning: "objects or practices surviving from an earlier time"
+    example: "The old fort was a relic of the Mughal era."
+
 scholarly_notes:
-  - anchor: "discovery"
-    note: "The word 'discovery' is philosophical here, not merely geographical. Nehru frames it as an inward civilizational inquiry."
-  - anchor: "India discovering itself"
-    note: "This line shifts the passage away from colonial frameworks and toward self-knowledge, national consciousness, and postcolonial identity."
-  - anchor: "diversity"
-    note: "The passage presents plurality as foundational to Indian civilization rather than as a threat to unity."
+  - heading: "Context"
+    body: "Written in 1944 while Nehru was imprisoned at Ahmadnagar Fort. The book is part autobiography, part history, and part meditation on civilisation."
+  - heading: "The Outsider Within"
+    body: "Nehru's ambivalence — thrilled yet critical — reflects his dual formation: educated in England, rooted in India. This tension shapes the entire book."
 ---
 
-India has always been a land of paradoxes. It is a country where the spiritual and the material exist in constant dialogue, where ancient wisdom meets modern aspirations. The discovery of India is not merely a geographical or historical fact, but a continuous process of understanding ourselves--our values, our heritage, and our place in the world.
+India was in my blood and there was much in her that instinctively thrilled me. Yet I approached her almost as an alien critic, full of dislike for the present as well as for many of the relics of the past that I saw.
 
-When we speak of discovery, we must ask: discovery by whom, and of what? Is it the Western world discovering India, or is it India discovering itself? History has shown us that true understanding comes when we look within, when we examine our own consciousness and recognize the diversity that makes us whole.
+To know a people, one has to know something of their long history and culture, of the growth of their minds and the currents of their thought. One has to travel with them, as it were, in the long journey of history, and feel and understand the pull and urges that have moved them.
 
-The threads of Indian civilization are woven with gold and silk, with the wisdom of ages and the dreams of millions. To discover India is to understand that we are not a monolith, but a magnificent tapestry of cultures, religions, and philosophies coexisting in relative harmony.
+India is a geographical and economic entity, a cultural unity amidst diversity, a bundle of contradictions held together by strong but invisible threads. Overwhelmed again and again, her spirit was never conquered, and today when she appears to be on the threshold of freedom, we see her, a little tired and weary, yet full of the immortal fire that has kept her going through the ages.
