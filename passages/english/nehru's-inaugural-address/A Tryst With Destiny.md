@@ -1,4 +1,4 @@
-yaml
+---
 title: "A Tryst With Destiny"
 titleEn: "A Tryst With Destiny"
 author: "Jawaharlal Nehru"
@@ -52,7 +52,7 @@ scholarly_notes:
     body: "This poignant line refers to the partition of India in 1947, which created the separate nation of Pakistan. Many communities were divided by the new borders, leading to immense suffering and displacement."
   - heading: "The Noble Mansion of Free India"
     body: "This metaphor suggests that building a free India is a collective, constructive effort. It requires unity and shared purpose to create a just and inclusive society for all its citizens."
-```
+---
 Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom. A moment comes, which comes but rarely in history, when we step out from the old to the new, when an age ends, and when the soul of a nation, long suppressed, finds utterance. It is fitting that at this solemn moment, we take the pledge of dedication to the service of India and her people and to the still larger cause of humanity.
 
 At the dawn of history, India started on her unending quest, and trackless centuries are filled with her striving and grandeur of her success and failures. Through good and ill fortune alike, she has never lost sight of that quest, forgotten the ideals which gave her strength. We end today a period of misfortunes and India discovers herself again. The achievement we celebrate today is but a step, an opening of opportunity to the greater triumphs and achievements that await us. Are we brave enough and wise enough to grasp this opportunity and accept the challenge of the future?

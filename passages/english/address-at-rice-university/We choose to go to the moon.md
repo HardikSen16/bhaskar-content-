@@ -1,4 +1,4 @@
-yaml
+---
 title: "We choose to go to the moon"
 titleEn: "We choose to go to the moon"
 author: "John F Kennedy"
