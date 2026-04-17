@@ -1,0 +1,1 @@
+With over 80 million native speakers, Tamil is one of the most widely spoken languages in India. It is the official language of the state of Tamil Nadu and union territory of Puducherry in India. Tamil was the first to be recognised as a classical language of India by the Central Government in 2004.
