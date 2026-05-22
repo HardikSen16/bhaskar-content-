@@ -8,6 +8,7 @@ tags:
   - history
   - fiction
 reading_time: "4 min"
+complexity_score: 7
 excerpt: "Lestrade's momentous intelligence about Stangerson's death leaves Holmes and Watson dumbfounded, revealing a deeper, more sinister plot."
 reflection_prompts:
   - How does the discovery of Stangerson's death, rather than his escape, change the investigators' understanding of the crime?
