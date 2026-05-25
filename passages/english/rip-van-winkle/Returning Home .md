@@ -8,6 +8,7 @@ tags:
   - fiction
   - history
 reading_time: "3 min"
+complexity_score: 4
 excerpt: "Rip Van Winkle returns to his village after a long sleep to find it utterly changed, his dog and house unrecognizable, and the inn replaced by 'The Union Hotel'."
 
 reflection_prompts:
