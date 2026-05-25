@@ -8,6 +8,7 @@ tags:
   - social
   - history
 reading_time: "3 min"
+complexity_score: 6
 excerpt: "A new bride's life unfolds in a village, marked by tradition, societal expectations, and the subtle stirrings of self-awareness."
 reflection_prompts:
   - "How does the passage portray the societal expectations placed upon women in the village setting?"
