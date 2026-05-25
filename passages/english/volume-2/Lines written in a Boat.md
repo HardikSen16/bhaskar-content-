@@ -7,6 +7,7 @@ difficulty: student
 tags:
   - poetry
 reading_time: "1 min"
+complexity_score: 10
 excerpt: "A poem reflecting on the transient beauty of nature and the youthful bard's hopeful illusions."
 reflection_prompts:
   - How does Wordsworth contrast the "backward stream" with the "water's breast"? What does this contrast suggest about perception and reality?
