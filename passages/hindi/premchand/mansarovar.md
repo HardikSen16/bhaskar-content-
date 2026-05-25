@@ -8,6 +8,7 @@ tags:
   - fiction
   - history
 reading_time: "3 min"
+complexity_score: 6
 excerpt: "कथा में अगर किसी को सुख प्राप्त होता है, तो इसका कारण बताना होग, दुख भी मिलता है, तो इसका कारण बताना होगा।"
 
 reflection_prompts:
