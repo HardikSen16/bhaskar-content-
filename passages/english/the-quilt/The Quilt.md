@@ -8,6 +8,7 @@ tags:
   - social
   - fiction
 reading_time: "4 min"
+complexity_score: 9
 excerpt: "A young girl's childhood memories of a quilt and the tragic life of Begum Jan."
 reflection_prompts:
   - "How does the narrator's childhood perspective contrast with Begum Jan's adult reality?"
