@@ -7,6 +7,7 @@ difficulty: student
 tags:
   - poetry
 reading_time: "2 min"
+complexity_score: 4
 excerpt: "A poet reflects on the joy and lasting memory of a field of daffodils, finding solace in their vibrant dance."
 reflection_prompts:
   - How does Wordsworth use nature to explore themes of memory and happiness?
