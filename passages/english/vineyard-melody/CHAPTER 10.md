@@ -8,6 +8,7 @@ tags:
   - history
   - fiction
 reading_time: "1 min"
+complexity_score: 2
 excerpt: "A carpet of green vines blanketed both sides of the winding roads, contrasting with the blue sky."
 reflection_prompts:
   - "What emotions does the author seem to be experiencing while in the Médoc region?"
