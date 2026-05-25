@@ -7,6 +7,7 @@ difficulty: student
 tags:
   - fiction
 reading_time: "4 min"
+complexity_score: 3
 excerpt: "Red and Slim found the two strange little animals the morning after they heard the thunder sounds. They knew that they could never show their new pets to their parents."
 reflection_prompts:
   - What does the author reveal about the boys' personalities through their dialogue and actions?
