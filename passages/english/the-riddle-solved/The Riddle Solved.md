@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "4 min"
+complexity_score: 6
 excerpt: "A zemindar's son implements strict financial policies, clashing with his father's charitable legacy."
 reflection_prompts:
   - "How does Bepin Bihari's approach to managing his estate reflect the changing socio-economic landscape of his time?"
