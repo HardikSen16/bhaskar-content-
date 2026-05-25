@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "4 min"
+complexity_score: 8
 excerpt: "Long years ago we made a tryst with destiny, and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially."
 
 reflection_prompts:
