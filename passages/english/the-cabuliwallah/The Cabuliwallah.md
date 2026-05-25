@@ -8,6 +8,7 @@ tags:
   - fiction
   - social
 reading_time: "3 min"
+complexity_score: 6
 excerpt: "A father recounts his daughter Mini's lively chatter and her first encounter with a Cabuliwallah."
 reflection_prompts:
   - "How does the narrator's perspective on his daughter's constant talking evolve throughout the passage?"
