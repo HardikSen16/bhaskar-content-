@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "4 min"
+complexity_score: 4
 excerpt: "Prithvimahadevi's journey is uphill. Married off to her father's enemy, she finds herself betrayed and alone."
 reflection_prompts:
   - "How does the author use Prithvimahadevi's internal thoughts and observations to convey her emotional state and determination?"
