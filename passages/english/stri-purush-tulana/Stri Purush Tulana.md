@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "4 min"
+complexity_score: 7
 excerpt: "A critique of gender inequality, questioning the divine and societal biases against women."
 reflection_prompts:
   - "How does Shinde challenge the traditional understanding of divine impartiality and justice?"
