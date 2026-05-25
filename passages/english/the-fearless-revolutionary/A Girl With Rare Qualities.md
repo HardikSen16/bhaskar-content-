@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "4 min"
+complexity_score: 5
 excerpt: "Kanaklata Barua, a young Assamese woman, displayed exceptional skills in weaving, cooking, and leadership, challenging gender norms of her time."
 reflection_prompts:
   - "How did Kanaklata Barua's skills and beliefs challenge the societal expectations for women in her era?"
