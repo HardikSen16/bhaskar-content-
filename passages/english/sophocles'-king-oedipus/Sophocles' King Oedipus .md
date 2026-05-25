@@ -9,6 +9,7 @@ tags:
   - philosophy
   - ethics
 reading_time: "4 min"
+complexity_score: 10
 excerpt: "Oedipus, King of my country, you can see our ages who are before your door; some it may be too young for such a journey, and some too old..."
 reflection_prompts:
   - "What does the passage reveal about the role of leadership and responsibility in ancient Greek society?"
