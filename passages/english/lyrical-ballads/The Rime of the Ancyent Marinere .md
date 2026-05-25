@@ -9,6 +9,7 @@ tags:
   - history
   - ethics
 reading_time: "4 min"
+complexity_score: 10
 excerpt: "An ancient mariner stops a wedding guest to tell a tale of a cursed voyage, a supernatural storm, and a fateful shot at an albatross."
 reflection_prompts:
   - What is the significance of the wedding guest's inability to escape the Mariner's story?
