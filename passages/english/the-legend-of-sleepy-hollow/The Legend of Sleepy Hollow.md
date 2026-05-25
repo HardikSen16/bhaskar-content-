@@ -8,6 +8,7 @@ tags:
   - fiction
   - history
 reading_time: "3 min"
+complexity_score: 7
 excerpt: "A small market town or rural port, known as Tarry Town, lies nestled in a quiet valley called Sleepy Hollow."
 
 reflection_prompts:
