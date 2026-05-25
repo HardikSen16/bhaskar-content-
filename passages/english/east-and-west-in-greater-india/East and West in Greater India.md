@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "3 min"
+complexity_score: 6
 excerpt: "The history of India began with the entry of the white-skinned Aryans. The non-Aryans fused with Aryans, and later Mussalmans swept in."
 reflection_prompts:
   - "How does Tagore challenge the idea of a singular 'History of India'?"
