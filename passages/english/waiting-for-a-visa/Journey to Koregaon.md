@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "12 min"
+complexity_score: 7
 excerpt: "A nine-year-old Ambedkar's train journey to meet his father turns into a harrowing ordeal, exposing the brutal realities of untouchability."
 reflection_prompts:
   - "How did the author's experiences at the train station and with the bullock-cart driver highlight the pervasive nature of caste discrimination?"
