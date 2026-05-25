@@ -7,6 +7,7 @@ difficulty: student
 tags:
   - social
 reading_time: "3 min"
+complexity_score: 4
 excerpt: "Marianne and Connell navigate their complex relationship amidst school pressures and class differences."
 reflection_prompts:
   - "How does the passage illustrate the social divide between Marianne and Connell's families, and how does this affect their interactions?"
