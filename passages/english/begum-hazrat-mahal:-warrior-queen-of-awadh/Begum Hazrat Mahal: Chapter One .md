@@ -8,6 +8,7 @@ tags:
   - history
   - social
 reading_time: "4 min"
+complexity_score: 5
 excerpt: "Hazrat Mahal's evening durbar exuded not just the heady perfume of summer blossoms, but eclectic, electric emotions."
 reflection_prompts:
   - "What emotions are present in the durbar, and what do they reveal about the political climate?"
