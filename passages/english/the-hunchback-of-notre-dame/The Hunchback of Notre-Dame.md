@@ -8,6 +8,7 @@ tags:
   - fiction
   - history
 reading_time: "1 min"
+complexity_score: 5
 excerpt: "The Parisians awoke to the sound of all the bells ringing a full peal."
 
 reflection_prompts:
