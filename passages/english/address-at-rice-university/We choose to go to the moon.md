@@ -8,6 +8,7 @@ tags:
   - history
   - philosophy
 reading_time: "7 min"
+complexity_score: 8
 excerpt: "We choose to go to the moon... not because they are easy, but because they are hard."
 
 reflection_prompts:
